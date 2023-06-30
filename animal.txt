@@ -5,3 +5,5 @@ elephant
 cat
 dog
 monkey
+wolf
+goat
