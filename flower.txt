@@ -3,4 +3,7 @@ lilly
 rose
 lotus
 marigold
+white rose
+red rose
+yellow rose
 
